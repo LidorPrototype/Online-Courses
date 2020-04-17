@@ -1,8 +1,7 @@
-# Courses List
-### List of courses I did and finished succecfuly, each course will apear in the below format:
+
+## List of courses I did and finished succecfuly, each course will apear in the below format:
 > Course name - Website name - Course status based on last update of this file - link to course / "Course is unavialable"
 
+### Courses List
 
-
- 1) xd
- 2. xdd
+ 1. first
