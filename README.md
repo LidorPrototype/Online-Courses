@@ -1,15 +1,11 @@
 # Online-Courses
 ### Hello,
 
-this repository is a 2 files only, this README file you're currently reading, and another text file which is the list of 
-the online courses I did and finished.
+This repository contains 2 files only: this "README" file you're currently reading, and another text file that contains the list of the online courses that I completed.
 
-each course I did will be provided with a link to the course (only if the course is still available), and website name.
-if a course link doesn't work for you, try googling the name of the course or searching it in the course website, if
-still you canwt find the course or the website says it's deleted, you are more then welcome to file an official issue in 
-here, I will look at that issue and either send you a link to the course or update that the course is not longer available.
+Each course I completed will be provided by a link (only if still available) and the website name. If the link doesn't work, try googling the name of the course or searching it in the courses website. If for any other reason you cannot reach the course's website - please file me an official issue and I will try to find it another way or will inform you if the course is indeed no longer available. 
 
-if you have any more questions regarding the courses, or you would like a personal / proffesional opinion on it, feel 
-free to submit an issue about it and I will answer.
+If you have any more questions regarding the courses, or would like a personal / professional opinion on them - feel free to submit a request about it via the email address that apears on my profile and I will gladly answer.
 
 ##### Lidor.
+
