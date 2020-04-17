@@ -1,5 +1,5 @@
 
-## List of courses I did and finished succecfuly, each course will apear in the below format:
+## List of proffesional courses I did and finished succecfuly, each course will apear in the below format:
 > Course name - link to course / "Course is unavialable anymore"
 
 ### Courses List
