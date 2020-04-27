@@ -16,5 +16,6 @@
   - Learn SQL by Writing Queries **-** [Course link](https://www.udemy.com/course/learn-sql-by-writing-queries/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
-  - Advanced Android App Development by Google **-** [Course link](https://www.udacity.com/course/advanced-android-app-development--ud855)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+  - Advanced Android App Development by Google **-** [Course link](https://www.udacity.com/course/advanced-android-app-development--ud855)
+  
