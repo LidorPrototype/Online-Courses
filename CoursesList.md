@@ -3,6 +3,8 @@
 > Course name - link to course / "Course is unavialable anymore"
 
 ### Courses List
+**Currently taking:** 
+
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
   - Python Game Development : Creating a Snake Game from scratch **-** [Course link](https://www.udemy.com/course/python-game-development-creating-a-snake-game-from-scratch/) **(** private course login required **)**
