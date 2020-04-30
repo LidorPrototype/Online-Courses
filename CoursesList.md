@@ -14,6 +14,7 @@
   - C# Basics for Beginners- Learn By Doing **-** [Course link](https://www.udemy.com/course/c-sharp-basics-learn-to-code-the-hard-way/)
   - Basics of Object Oriented Programming with C# **-** [Course link](https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/)
   - Learn SQL by Writing Queries **-** [Course link](https://www.udemy.com/course/learn-sql-by-writing-queries/)
+  - Python Programming for Beginners in Data Science **-** [Course link](https://www.udemy.com/course/just-enough-python/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
