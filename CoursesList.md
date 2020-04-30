@@ -20,3 +20,6 @@
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
   - Advanced Android App Development by Google **-** [Course link](https://www.udacity.com/course/advanced-android-app-development--ud855)
   
+  **Coursera:** [Website link](https://www.coursera.org/)
+  - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone)
+  
