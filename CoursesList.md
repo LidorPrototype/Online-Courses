@@ -3,7 +3,9 @@
 > Course name - link to course / "Course is unavialable anymore"
 
 ## Courses List
-**Currently taking:** Introduction to Computer Vision with Watson and OpenCV by IBM - [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) **-** [Coursera website link](https://www.coursera.org/)
+**Currently taking:** 
+ - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) **-** [Website link](https://www.coursera.org/)
+ - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/) **-** [Website link](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
