@@ -6,7 +6,7 @@
 **Currently taking:** 
  - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) **-** [Website link](https://www.coursera.org/)
  - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/) **-** [Website link](https://www.udemy.com/)
- - Flutter Beginner Tutorial - Build own App **-** [Course link](https://www.udemy.com/course/free-flutter-beginner-tutorial-build-own-app/) **-** [Website link](https://www.udemy.com/)
+
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
@@ -18,6 +18,7 @@
   - Basics of Object Oriented Programming with C# **-** [Course link](https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/)
   - Learn SQL by Writing Queries **-** [Course link](https://www.udemy.com/course/learn-sql-by-writing-queries/)
   - Python Programming for Beginners in Data Science **-** [Course link](https://www.udemy.com/course/just-enough-python/)
+ - Flutter Beginner Tutorial - Build own App **-** [Course link](https://www.udemy.com/course/free-flutter-beginner-tutorial-build-own-app/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
