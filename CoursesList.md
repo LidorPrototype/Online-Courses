@@ -3,8 +3,7 @@
 > Course name - link to course / "Course is unavialable anymore"
 
 ## Courses List
-**Currently taking:** 
- - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) **-** [Website link](https://www.coursera.org/)
+**Currently taking:**
  - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/) **-** [Website link](https://www.udemy.com/)
 
 
@@ -25,5 +24,6 @@
   - Advanced Android App Development by Google **-** [Course link](https://www.udacity.com/course/advanced-android-app-development--ud855)
   
   **Coursera:** [Website link](https://www.coursera.org/)
-  - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone)
+  - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
+ - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
   
