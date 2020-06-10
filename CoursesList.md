@@ -4,7 +4,6 @@
 
 ## Courses List
 **Currently taking:**
- - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/) **-** [Website link](https://www.udemy.com/)
 
 
  **Udemy:** [Website link](https://www.udemy.com/)
@@ -18,6 +17,7 @@
   - Learn SQL by Writing Queries **-** [Course link](https://www.udemy.com/course/learn-sql-by-writing-queries/)
   - Python Programming for Beginners in Data Science **-** [Course link](https://www.udemy.com/course/just-enough-python/)
  - Flutter Beginner Tutorial - Build own App **-** [Course link](https://www.udemy.com/course/free-flutter-beginner-tutorial-build-own-app/)
+ - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
