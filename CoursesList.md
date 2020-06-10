@@ -4,7 +4,7 @@
 
 ## Courses List
 **Currently taking:**
-
+  - Artificial Neural Network for Regression **-** [Course link](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/) **-** [Website link](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
