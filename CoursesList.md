@@ -4,7 +4,7 @@
 
 ## Courses List
 **Currently taking:**
-  - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/)
+  - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/) **-** [Website link](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
