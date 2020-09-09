@@ -5,6 +5,7 @@
 ## Courses List
 **Currently taking:**
   - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/) **-** [Website link](https://www.udemy.com/)
+  - Web Development Essentials - HTML5, CSS, Javascript **-** [Course link](https://www.udemy.com/course/web-development-essentials-html5-css-javascript/) **-** [Website link](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
