@@ -6,7 +6,6 @@
 **Currently taking:**
   - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/) **-** [Website link](https://www.udemy.com/)
   - Web Development Essentials - HTML5, CSS, Javascript **-** [Course link](https://www.udemy.com/course/web-development-essentials-html5-css-javascript/) **-** [Website link](https://www.udemy.com/)
-  - Learn Keras: Build 4 Deep Learning Applications **-** [Course link](https://www.udemy.com/course/learnkeras/) **-** [Website link](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
@@ -22,6 +21,7 @@
  - Flutter Beginner Tutorial - Build own App **-** [Course link](https://www.udemy.com/course/free-flutter-beginner-tutorial-build-own-app/)
  - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/)
  - Artificial Neural Network for Regression **-** [Course link](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/)
+ - Learn Keras: Build 4 Deep Learning Applications **-** [Course link](https://www.udemy.com/course/learnkeras/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
