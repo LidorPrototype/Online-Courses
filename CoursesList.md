@@ -21,6 +21,7 @@
  - Learn Computer Vision with OpenCV Library using Python **-** [Course link](https://www.udemy.com/course/pythoncv/)
  - Artificial Neural Network for Regression **-** [Course link](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/)
  - Learn Keras: Build 4 Deep Learning Applications **-** [Course link](https://www.udemy.com/course/learnkeras/)
+ - Android Programming with Kotlin for beginner: Calculator App **-** [Course link](https://www.udemy.com/course/android-programming-with-kotlin-for-beginner-calculator-app/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
