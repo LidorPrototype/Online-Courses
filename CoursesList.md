@@ -4,7 +4,7 @@
 
 ## Courses List
 **Currently taking:**
-  - Web Development Essentials - HTML5, CSS, Javascript **-** [Course link](https://www.udemy.com/course/web-development-essentials-html5-css-javascript/) **-** [Website link](https://www.udemy.com/)
+  
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
@@ -22,6 +22,7 @@
  - Artificial Neural Network for Regression **-** [Course link](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/)
  - Learn Keras: Build 4 Deep Learning Applications **-** [Course link](https://www.udemy.com/course/learnkeras/)
  - Android Programming with Kotlin for beginner: Calculator App **-** [Course link](https://www.udemy.com/course/android-programming-with-kotlin-for-beginner-calculator-app/)
+ - Web Development Essentials - HTML5, CSS, Javascript **-** [Course link](https://www.udemy.com/course/web-development-essentials-html5-css-javascript/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
