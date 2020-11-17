@@ -5,7 +5,6 @@
 ## Courses List
 **Currently taking:**
   - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262) **-** [Website link [Udacity]](https://www.udacity.com/)
-  - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity) **-** [Website link [edX]](https://www.edx.org/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
@@ -33,4 +32,8 @@
   **Coursera:** [Website link](https://www.coursera.org/)
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
  - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
+  
+  **_edX:_** [Website link [edX]](https://www.edx.org/)
+  - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)
+  
   
