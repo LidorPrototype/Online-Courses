@@ -7,5 +7,12 @@ Each course I completed will be provided by a link (only if still available) and
 
 If you have any more questions regarding the courses, or would like a personal / professional opinion on them - feel free to submit a request about it via the email address that appears on my profile and I will gladly answer.
 
+_Current courses websites:_
+  - _[Udemy](https://www.udemy.com/)_
+  - _[Udacity](https://www.udacity.com/)_
+  - _[Coursera](https://www.coursera.org/)_
+  - _[edX](https://www.edx.org/)_
+
 ##### Lidor.
+###### L-ES
 
