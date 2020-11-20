@@ -5,6 +5,7 @@
 ## Courses List
 **Currently taking:**
   - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262) **-** [Website link [Udacity]](https://www.udacity.com/)
+  - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
