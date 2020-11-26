@@ -9,7 +9,7 @@
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
-  - Python Game Development : Creating a Snake Game from scratch **-** [Course link](https://www.udemy.com/course/python-game-development-creating-a-snake-game-from-scratch/) **(** private course login required **)**
+  - Python Game Development : Creating a Snake Game from scratch **-** [Course link](https://www.udemy.com/course/python-game-development-creating-a-snake-game-from-scratch/)
   - Your First Simple Android App in Java **-** [Course link](https://www.udemy.com/course/android-app-quick/)
   - Practice Java by Building Projects **-** [Course link](https://www.udemy.com/course/practice-java-by-building-projects/)
   - Code Your First Game: Arcade Classic in JavaScript on Canvas **-** [Course link](https://www.udemy.com/course/code-your-first-game/)
