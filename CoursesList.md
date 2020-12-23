@@ -4,7 +4,6 @@
 
 ## Courses List
 **Currently taking:**
-  - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
@@ -29,6 +28,7 @@
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
   - Advanced Android App Development by Google **-** [Course link](https://www.udacity.com/course/advanced-android-app-development--ud855)
   - Building High Conversion Web Forms **-** [Course link](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
+  - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262)
   
   **Coursera:** [Website link](https://www.coursera.org/)
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
