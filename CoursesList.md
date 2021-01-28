@@ -5,6 +5,7 @@
 ## Courses List
 **Currently taking:**
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
+  - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
@@ -23,6 +24,7 @@
  - Learn Keras: Build 4 Deep Learning Applications **-** [Course link](https://www.udemy.com/course/learnkeras/)
  - Android Programming with Kotlin for beginner: Calculator App **-** [Course link](https://www.udemy.com/course/android-programming-with-kotlin-for-beginner-calculator-app/)
  - Web Development Essentials - HTML5, CSS, Javascript **-** [Course link](https://www.udemy.com/course/web-development-essentials-html5-css-javascript/)
+ - Dart - Intermediate Course **-** [Course link](https://www.udemy.com/course/dart-intermediate-course/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
