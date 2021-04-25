@@ -4,6 +4,7 @@
 
 ## Courses List
 **Currently taking:**
+  - Data Structures and Design Patterns for Game Developers _by University of Colorado_ **-** [Course link](https://www.coursera.org/learn/data-structures-design-patterns?specialization=programming-unity-game-development) **-** [Website link [Coursera]](https://www.coursera.org/)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
