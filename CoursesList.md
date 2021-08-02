@@ -35,7 +35,7 @@
   **Coursera:** [Website link](https://www.coursera.org/)
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
   - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
-  - C# Programming for Unity Game Development Specialization _by University of Colorado_ (Contains 4 courses inside this specialization) **-** [Course link](https://www.coursera.org/specializations/programming-unity-game-development)
+  - C# Programming for Unity Game Development Specialization _by University of Colorado_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/programming-unity-game-development)
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)
