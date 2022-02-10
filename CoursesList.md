@@ -39,7 +39,7 @@
   - C# Programming for Unity Game Development Specialization _by University of Colorado_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/programming-unity-game-development)
   - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing)
 
-  **Databricks:** [Website link](https://www.coursera.org/)
+  **Databricks:** [Website link](https://databricks.com/learn)
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)
