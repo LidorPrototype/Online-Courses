@@ -8,7 +8,7 @@
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course Link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
-  - Data Engineer Learning Path **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
+  - Data Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
