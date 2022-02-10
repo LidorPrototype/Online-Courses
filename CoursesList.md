@@ -41,7 +41,7 @@
   - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing)
 
   **Databricks:** [Website link](https://databricks.com/learn/training/home)
-  - Data Engineer Learning Path **-** Link avaiable only to users
+  - 
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)
