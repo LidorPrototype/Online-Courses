@@ -4,8 +4,9 @@
 
 ## Courses List
 **Currently taking:**
-  - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing) **-** [Website link](https://www.coursera.org/)
+  - Learn Python for Data Science & Machine Learning from A-Z **-** [Course Link](https://www.udemy.com/course/python-for-data-science-machine-learning/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
+  - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course Link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
@@ -36,6 +37,7 @@
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
   - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
   - C# Programming for Unity Game Development Specialization _by University of Colorado_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/programming-unity-game-development)
+  - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing)
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)
