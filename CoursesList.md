@@ -5,6 +5,7 @@
 ## Courses List
 **Currently taking:**
   - Learn Python for Data Science & Machine Learning from A-Z **-** [Course Link](https://www.udemy.com/course/python-for-data-science-machine-learning/) **-** [Website link [Udemy]](https://www.udemy.com/)
+  - Let's Create a Sudoku Game **-** [Course Link](https://www.udemy.com/course/lets-create-a-sudoku-game/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Data Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
