@@ -34,6 +34,9 @@
   - Advanced Android App Development by Google **-** [Course link](https://www.udacity.com/course/advanced-android-app-development--ud855)
   - Building High Conversion Web Forms **-** [Course link](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
   - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262)
+
+  **DataCamp:** [Website link](http://www.datacamp.com/)
+  - Intermediate SQL **-** [Course link](https://app.datacamp.com/learn/courses/intermediate-sql) 
   
   **Coursera:** [Website link](https://www.coursera.org/)
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
