@@ -5,8 +5,8 @@
 ## Courses List
 **Currently taking:**
   - Learn Python for Data Science & Machine Learning from A-Z **-** [Course Link](https://www.udemy.com/course/python-for-data-science-machine-learning/) **-** [Website link [Udemy]](https://www.udemy.com/)
-  - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5) **-** [Website link [DataCamp]](https://www.datacamp.com/)
-  - Data Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
+  - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link]([https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python) **-** [Website link [DataCamp]](https://www.datacamp.com/)
+  - Machine Learning Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
   - Let's Create a Sudoku Game **-** [Course Link](https://www.udemy.com/course/lets-create-a-sudoku-game/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
@@ -29,6 +29,7 @@
   - Web Development Essentials - HTML5, CSS, Javascript **-** [Course link](https://www.udemy.com/course/web-development-essentials-html5-css-javascript/)
   - Dart - Intermediate Course **-** [Course link](https://www.udemy.com/course/dart-intermediate-course/)
   - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course Link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/)
+  - Python Streamlit for making Web Applications **-** [Course link](https://www.udemy.com/course/python-streamlit-for-making-web-applications/)
 
   **Udacity:** [Website link](https://www.udacity.com/)
   - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
@@ -38,6 +39,7 @@
 
   **DataCamp:** [Website link](http://www.datacamp.com/)
   - Intermediate SQL **-** [Course link](https://app.datacamp.com/learn/courses/intermediate-sql) 
+  - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
   
   **Coursera:** [Website link](https://www.coursera.org/)
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
@@ -46,7 +48,7 @@
   - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing)
 
   **Databricks:** [Website link](https://databricks.com/learn/training/home)
-  - 
+  - Data Engineer _Learning Path_ **-** Link avaiable only to users
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)
