@@ -1,10 +1,4 @@
 ## Courses List By Website
-**Currently taking:**
-  - Learn Python for Data Science & Machine Learning from A-Z **-** [Course Link](https://www.udemy.com/course/python-for-data-science-machine-learning/) **-** [Website link [Udemy]](https://www.udemy.com/)
-  - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python) **-** [Website link [DataCamp]](https://www.datacamp.com/)
-  - Machine Learning Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
-  - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
-  - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
  **Udemy:** [Website link](https://www.udemy.com/)
   - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
