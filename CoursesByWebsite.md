@@ -1,8 +1,4 @@
-
-## List of proffesional online courses I completed, each course will apear in the below format:
-> Course name - link to course / "Course is unavialable anymore"
-
-## Courses List
+## Courses List By Website
 **Currently taking:**
   - Learn Python for Data Science & Machine Learning from A-Z **-** [Course Link](https://www.udemy.com/course/python-for-data-science-machine-learning/) **-** [Website link [Udemy]](https://www.udemy.com/)
   - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python) **-** [Website link [DataCamp]](https://www.datacamp.com/)
