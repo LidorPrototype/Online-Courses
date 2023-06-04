@@ -4,7 +4,7 @@
 This repository contains 2 type of files:
   1. This "README" file you're currently reading.
   2. Courses List files, each file is orgenized in a different way or subject indicated by it's name.
-      The lists are of online courses that I completed.
+      The lists are of online courses that I completed, not currently taking.
 
 #### Each course will apear in the below format:
 > Course name - link to course / "Course is unavialable anymore"
