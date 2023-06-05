@@ -11,7 +11,8 @@ This repository contains 2 type of files:
 
 #### Courses I'm currently taking:
   - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python) **-** [Website link [DataCamp]](https://www.datacamp.com/)
-  - Machine Learning Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
+  - Machine Learning Practitioner _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
+  - Data Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
