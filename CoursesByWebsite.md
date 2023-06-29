@@ -36,6 +36,7 @@
   - Introduction to Computer Vision with Watson and OpenCV by IBM **-** [Course link](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
   - C# Programming for Unity Game Development Specialization _by University of Colorado_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/programming-unity-game-development)
   - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing)
+  - Scripting with Python and SQL for Data Engineering **-** [Course link](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
 
   **Databricks:** [Website link](https://databricks.com/learn/training/home)
   - Data Engineer _Learning Path_ **-** Link avaiable only to users

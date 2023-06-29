@@ -14,6 +14,7 @@
     - Learn Keras: Build 4 Deep Learning Applications **-** [Course link](https://www.udemy.com/course/learnkeras/)
     - Applied Deep Learning: Build a Chatbot - Theory, Application **-** [Course Link](https://www.udemy.com/course/applied-deep-learning-build-a-chatbot-theory-application/)
     - Python Streamlit for making Web Applications **-** [Course link](https://www.udemy.com/course/python-streamlit-for-making-web-applications/)
+    - Scripting with Python and SQL for Data Engineering **-** [Course link](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
 
 **SQL:**
     - Learn SQL by Writing Queries **-** [Course link](https://www.udemy.com/course/learn-sql-by-writing-queries/)
