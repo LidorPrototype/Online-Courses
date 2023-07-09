@@ -2,6 +2,7 @@
 
 **Python:**
     - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
+    - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)
     - Data Engineer _Learning Path_ **-** Link avaiable only to users **-** [Databricks](https://databricks.com/learn/training/home)
     - Intro to TensorFlow for Deep Learning by TensorFlow **-** [Course link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
     - Natural Language Processing Specialization _by DeepLearning.AI_ (Contains 4 courses inside this specialization) **-** [Specialization link](https://www.coursera.org/specializations/natural-language-processing)
