@@ -28,9 +28,9 @@
   - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262)
 
   **DataCamp:** [Website link](http://www.datacamp.com/)
-  - Intermediate SQL **-** [Course link](https://app.datacamp.com/learn/courses/intermediate-sql) 
-  - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5)
-  - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)
+  - Intermediate SQL **-** [Course link](https://www.datacamp.com/courses/intermediate-sql) 
+  - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-with-python)
+  - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
   
   **Coursera:** [Website link](https://www.coursera.org/)
   - C for Everyone: Programming Fundamentals by University of California, Santa Cruz **-** [Course link](https://www.coursera.org/learn/c-for-everyone) 
