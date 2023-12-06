@@ -28,6 +28,7 @@
   - Programming Languages - Building a Web Browser **-** [Course link](https://www.udacity.com/course/programming-languages--cs262)
 
   **DataCamp:** [Website link](http://www.datacamp.com/)
+  - Data Scientist Professional with Python **-** *Career Track (31 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-professional-with-python)
   - Intermediate SQL **-** [Course link](https://www.datacamp.com/courses/intermediate-sql) 
   - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-with-python)
   - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
@@ -41,6 +42,10 @@
 
   **Databricks:** [Website link](https://databricks.com/learn/training/home)
   - Data Engineer _Learning Path_ **-** Link avaiable only to users
+  - Machine Learning Practitioner _Learning Path_ **-** Link avaiable only to users
+  
+  **Kaggle:** [Website link](https://www.kaggle.com/)
+  - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)

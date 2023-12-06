@@ -10,13 +10,10 @@ This repository contains 2 type of files:
 > Course name - link to course / "Course is unavialable anymore"
 
 #### Courses I'm currently taking:
-  - Data Scientist Professional with Python **-** *Career Track (31 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-professional-with-python) **-** [Website link [DataCamp]](https://www.datacamp.com/)
-  - Machine Learning Practitioner _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
-  - Data Engineer _Learning Path_ **-** Link avaiable only to users **-** [Website link [Databricks]](https://databricks.com/learn/training/home)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
-_Courses website include: [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Coursera](https://www.coursera.org/), [DataCamp](http://www.datacamp.com/), [Databricks](https://databricks.com/learn/training/home), [edX](https://www.edx.org/)_
+_Courses website include: [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Coursera](https://www.coursera.org/), [DataCamp](http://www.datacamp.com/), [Databricks](https://databricks.com/learn/training/home), [edX](https://www.edx.org/)_, [Kaggle](https://www.kaggle.com/)_
 
 ##### Lidor.
 ###### L-ES
