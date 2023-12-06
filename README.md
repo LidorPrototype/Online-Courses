@@ -10,6 +10,7 @@ This repository contains 2 type of files:
 > Course name - link to course / "Course is unavialable anymore"
 
 #### Courses I'm currently taking:
+  - Tableau Fundamentals **-** [Course link](https://www.datacamp.com/learn/skill-tracks/tableau-fundamentals) **-** [Website link [DataCamp]](https://www.datacamp.com)
   - Intro to Deep Learning with PyTorch _by Facebook AI_ **-** [Course link](https://www.udacity.com/course/deep-learning-pytorch--ud188) **-** [Website link [Udacity]](https://www.udacity.com/)
   - Flutter - Intermediate **-** [Course link](https://www.udemy.com/course/flutter-intermediate/) **-** [Website link [Udemy]](https://www.udemy.com/)
 
