@@ -46,6 +46,7 @@
   
   **Kaggle:** [Website link](https://www.kaggle.com/)
   - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
+  - Intro to Machine Learning **-** [Course link](https://www.kaggle.com/learn/intro-to-machine-learning)
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)

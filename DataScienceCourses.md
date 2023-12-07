@@ -17,3 +17,4 @@
     - Scripting with Python and SQL for Data Engineering **-** [Course link](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) **-** [Coursera](https://www.coursera.org)
     - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) **-** [DataCamp](https://www.datacamp.com)
     - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
+    - Intro to Machine Learning **-** [Course link](https://www.kaggle.com/learn/intro-to-machine-learning)

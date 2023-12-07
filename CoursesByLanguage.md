@@ -2,6 +2,7 @@
 
 **Python:**
     - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
+    - Intro to Machine Learning **-** [Course link](https://www.kaggle.com/learn/intro-to-machine-learning)
     - Data Scientist Professional with Python **-** *Career Track (31 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-professional-with-python)
     - Data Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-with-python)
     - Machine Learning Scientist with Python **-** *Career Track (23 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
