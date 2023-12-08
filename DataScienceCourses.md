@@ -1,5 +1,6 @@
 ## Data Science Courses List
 
+    - Intermediate Machine Learning **-** [Course link](https://www.kaggle.com/learn/intermediate-machine-learning)
     - Data Scientist Professional with Python **-** *Career Track (31 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-professional-with-python)
     - Machine Learning Practitioner _Learning Path_ **-** Link avaiable only to users
     - Learn Python: Build a Virtual Assistant **-** [Course link](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/) **-** [Udemy](https://www.udemy.com)

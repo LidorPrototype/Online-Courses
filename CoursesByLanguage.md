@@ -1,6 +1,7 @@
 ## Courses List By Programming/Command Language
 
 **Python:**
+    - Intermediate Machine Learning **-** [Course link](https://www.kaggle.com/learn/intermediate-machine-learning)
     - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
     - Intro to Machine Learning **-** [Course link](https://www.kaggle.com/learn/intro-to-machine-learning)
     - Data Scientist Professional with Python **-** *Career Track (31 Courses)* **-** [Course Link](https://www.datacamp.com/tracks/data-scientist-professional-with-python)
