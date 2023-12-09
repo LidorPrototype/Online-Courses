@@ -48,6 +48,7 @@
   - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
   - Intro to Machine Learning **-** [Course link](https://www.kaggle.com/learn/intro-to-machine-learning)
   - Intermediate Machine Learning **-** [Course link](https://www.kaggle.com/learn/intermediate-machine-learning)
+  - Time Series **-** [Course link](https://www.kaggle.com/learn/time-series)
   
   **edX:** [Website link](https://www.edx.org/)
   - Introduction to Cybersecurity **-** [Course link](https://www.edx.org/course/introduction-to-cybersecurity)

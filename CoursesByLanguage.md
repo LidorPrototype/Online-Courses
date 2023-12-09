@@ -1,6 +1,7 @@
 ## Courses List By Programming/Command Language
 
 **Python:**
+    - Time Series **-** [Course link](https://www.kaggle.com/learn/time-series)
     - Intermediate Machine Learning **-** [Course link](https://www.kaggle.com/learn/intermediate-machine-learning)
     - Pandas **-** [Course link](https://www.kaggle.com/learn/pandas)
     - Intro to Machine Learning **-** [Course link](https://www.kaggle.com/learn/intro-to-machine-learning)
